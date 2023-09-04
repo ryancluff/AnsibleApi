@@ -1,0 +1,3 @@
+[submodule "ansible"]
+	path = src/api/plays
+	url = git@github.com:ryancluff/Infrastructure-Playbooks.git
