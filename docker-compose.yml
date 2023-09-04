@@ -1,0 +1,7 @@
+version: "3.7"
+services:
+  api:
+    build: src/api
+    image: registry.it.rcluff.com/ansible_api:0.1
+    ports:
+      - "80:80"

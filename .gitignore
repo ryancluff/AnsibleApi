@@ -1,0 +1,5 @@
+.venv
+.vscode
+.vault_pass
+
+__pycache__
